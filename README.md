@@ -9,9 +9,9 @@
 | Dataset ID | `533951` |
 | Location | Washington-Arlington-Alexandria, DC-VA-MD-WV |
 | Category | Restaurants |
-| Full dataset size | 14,738 records |
-| Free sample size | 1,000 records (6.79%) |
-| Last export | 2026-04-09T20:07:22.949629+00:00 |
+| Full dataset size | 14,535 records |
+| Free sample size | 1,000 records (6.88%) |
+| Last export | 2026-04-16T23:46:53.923159+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-washington-d-c-area-metro-dc-va-md-wv-us-sample-533951/releases/download/sample-latest/beamstation_533951_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
