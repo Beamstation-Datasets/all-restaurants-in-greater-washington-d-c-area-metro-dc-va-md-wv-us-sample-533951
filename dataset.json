@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant dataset spanning the Greater Washington D.C. metropolitan area across DC, Virginia, Maryland, and West Virginia. Filtered by the Restaurants category group, this export covers the capital region's diverse dining scene with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Greater Washington D.C. Area (Metro), DC-VA-MD-WV, US",
-  "export_job_id": "58c69275-5663-4352-b932-0a3c5b958dae",
+  "export_job_id": "fd01c6fe-129d-4ccf-8ea7-7ff352a8f12b",
   "github_org": "Beamstation-Datasets",
   "id_short": 533951,
   "location_name": "Washington-Arlington-Alexandria, DC-VA-MD-WV",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-greater-washington-d-c-area-metro-dc-va-md-wv-us-sample-533951",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/533951/beamstation_533951_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
-  "sample_pct": 6.79,
+  "sample_pct": 6.88,
   "sample_records": 1000,
-  "sample_sha256": "91f828f41c979853631c6a5b64315b45a3ca47a23d6563c36677ed0242d61d34",
-  "sample_size_bytes": 3343492,
-  "total_records": 14738,
-  "updated_at": "2026-04-09T20:07:22.949629+00:00"
+  "sample_sha256": "408bb3417e37150020bb3663367259b9d8a0a98fd41ca55a355a47c6ac590790",
+  "sample_size_bytes": 3353883,
+  "total_records": 14535,
+  "updated_at": "2026-04-16T23:46:53.923159+00:00"
 }
