@@ -1,12 +1,12 @@
 {
-  "export_job_id": "01610d47-5d82-4513-aa2f-7c42706b3c8a",
+  "export_job_id": "ef9f2f94-4789-4d0b-b02b-b21ae80b7d4a",
   "id_short": 533951,
-  "published_at": "2026-04-23T19:54:51Z",
+  "published_at": "2026-05-01T19:06:46Z",
   "repo_name": "all-restaurants-in-greater-washington-d-c-area-metro-dc-va-md-wv-us-sample-533951",
   "sample_asset_name": "beamstation_533951_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/533951/beamstation_533951_restaurants-us-washingtonarlingtonalexandriadcvamdwv_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "bee950785a446ca7ffe4282caacb5a8f3a00636c7f974cfc0a7b742ca8186a05",
-  "sample_size_bytes": 3380732,
-  "total_records": 12740
+  "sample_sha256": "4f90b7fc23af5fdd9e84d63d9970fe66908e791efbe581bc4d4c459ecb7dd376",
+  "sample_size_bytes": 3187008,
+  "total_records": 14778
 }
